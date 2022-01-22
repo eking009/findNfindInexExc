@@ -4,7 +4,7 @@ Simple online game
 
 ## Tools
 - HTML
-- CSS
+- JavaScript 
 - Jasmine testing tool
 
 _Thanks!_
